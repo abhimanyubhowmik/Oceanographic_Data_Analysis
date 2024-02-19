@@ -89,8 +89,8 @@ Arctic's salinity plummets deeper than Pacific's, revealing stronger stratificat
 To collect and analyse drifter and CTD data from the Toulon Bay for its Temperature, Oxygen and Salinity Profile. 
 
 ### Group Members:
-[Madhushree Sannigrahi](https://github.com/Madhushree2000),
 [Abhimanyu Bhowmik](https://www.linkedin.com/in/bhowmikabhimanyu/),
+[Madhushree Sannigrahi](https://github.com/Madhushree2000),
 [Camilla James](camilla.james123@gmail.com),
 [Rameen Sheikh](https://www.linkedin.com/in/rameen-sheikh-4b21b31b5/),
 [Akshat Sinha](https://www.linkedin.com/in/akshatsinha14/),
